@@ -1,0 +1,108 @@
+<html>
+  <head>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+     <style>
+      body {
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+
+      pre {
+        padding: 16px;
+        overflow: auto;
+        font-size: 14px;
+        line-height: 1.45;
+        background-color: #f6f8fa;
+        border-radius: 6px;
+        font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+        margin: 0;
+        word-break: normal;
+        height: 120px;
+      }
+
+      b, strong {
+        font-weight: 600;
+      }
+
+      p {
+        margin-top: 0;
+        margin-bottom: 12px;
+      }
+
+      div.desc {
+        margin-top: 16px;
+        margin-bottom: 3px;
+        font-size: 15px;
+      }
+
+      span.delim {
+        color: #FC573B;
+      }
+     </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="four columns">
+          <p><strong>YAML</strong></p>
+
+          <div class="desc">Opening and closing <span class="delim">---</span> lines.</div>
+          <pre>---
+name: "frontmatter"
+---
+rest of the content</pre>
+
+          <div class="desc">Opening <span class="delim">---yaml</span> and closing <span class="delim">---</span> lines.</div>
+          <pre>---yaml
+name: "frontmatter"
+---
+rest of the content</pre>
+        </div>
+
+        <div class="four columns">
+          <p><strong>TOML</strong></p>
+
+          <div class="desc">Opening and closing <span class="delim">+++</span> lines.</div>
+          <pre>+++
+name = "frontmatter"
++++
+rest of the content</pre>
+
+          <div class="desc">Opening <span class="delim">---toml</span> and closing <span class="delim">---</span> lines.</div>
+          <pre>---toml
+name = "frontmatter"
+---
+rest of the content</pre>
+        </div>
+
+        <div class="four columns">
+          <p><strong>JSON</strong></p>
+
+          <div class="desc">Opening and closing <span class="delim">;;;</span> lines.</div>
+          <pre>;;;
+{
+  "name": "frontmatter"
+}
+;;;
+rest of the content</pre>
+
+          <div class="desc">Opening <span class="delim">---json</span> and closing <span class="delim">---</span> lines.</div>
+          <pre>---json
+{
+  "name": "frontmatter"
+}
+---
+rest of the content</pre>
+
+          <div class="desc"><span class="delim">JSON object</span> followed by an <span class="delim">empty line</span>.</div>
+          <pre>{
+  "name": "frontmatter"
+}
+
+rest of the content</pre>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
