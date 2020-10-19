@@ -13,11 +13,11 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 262.54091 36.817516"
+   viewBox="0 0 293.1104 30"
    xml:space="preserve"
    sodipodi:docname="logo.svg"
-   width="262.54092"
-   height="36.817516"
+   width="293.11041"
+   height="30"
    inkscape:export-filename="/home/adi/Downloads/logo.png"
    inkscape:export-xdpi="327"
    inkscape:export-ydpi="327"
@@ -30,6 +30,12 @@
 	
 	
 	
+
+
+
+
+
+
 </defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -40,7 +46,7 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="3836"
-   inkscape:window-height="2123"
+   inkscape:window-height="2097"
    id="namedview44"
    showgrid="false"
    fit-margin-top="0"
@@ -49,11 +55,11 @@
    fit-margin-bottom="0"
    showguides="false"
    inkscape:guide-bbox="true"
-   inkscape:zoom="1.4833529"
-   inkscape:cx="135.08039"
-   inkscape:cy="1.294875"
+   inkscape:zoom="4.1955556"
+   inkscape:cx="182.44884"
+   inkscape:cy="11.191125"
    inkscape:window-x="0"
-   inkscape:window-y="33"
+   inkscape:window-y="61"
    inkscape:window-maximized="0"
    inkscape:current-layer="Layer_1" />
 <style
@@ -77,117 +83,119 @@
 	.st4{fill:#00ACD7;}
 	.st5{fill:#FFFFFF;}
 </style>
-<g
-   id="g1015"><text
-     inkscape:export-ydpi="327"
-     inkscape:export-xdpi="327"
-     transform="scale(0.70320887,1.4220526)"
-     id="text860"
-     y="21.535046"
-     x="-1.1015625"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.16885757px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75351799"
-     xml:space="preserve"><tspan
-       y="21.535046"
-       x="-1.1015625"
-       id="tspan858"
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#00aed9;fill-opacity:1;stroke-width:0.75351799">GO</tspan></text>
 <flowRoot
-     transform="translate(-251.82452,-10.238803)"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     id="flowRoot1276"
-     xml:space="preserve"><flowRegion
-       id="flowRegion1278"><rect
-         y="-45.759789"
-         x="-17.637712"
-         height="161.36124"
-         width="502.91315"
-         id="rect1280" /></flowRegion><flowPara
-       id="flowPara1282" /></flowRoot><flowRoot
-     transform="translate(-234.04169,-9.3020159)"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     id="flowRoot1338"
-     xml:space="preserve"><flowRegion
-       id="flowRegion1340"><rect
-         y="-50.604481"
-         x="-19.544491"
-         height="150.15891"
-         width="481.22351"
-         id="rect1342" /></flowRegion><flowPara
-       id="flowPara1344" /></flowRoot><text
+   xml:space="preserve"
+   id="flowRoot1276"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-230.465,-14.106921)"><flowRegion
+     id="flowRegion1278"><rect
+       id="rect1280"
+       width="502.91315"
+       height="161.36124"
+       x="-17.637712"
+       y="-45.759789" /></flowRegion><flowPara
+     id="flowPara1282" /></flowRoot><flowRoot
+   xml:space="preserve"
+   id="flowRoot1338"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-212.68217,-13.170134)"><flowRegion
+     id="flowRegion1340"><rect
+       id="rect1342"
+       width="481.22351"
+       height="150.15891"
+       x="-19.544491"
+       y="-50.604481" /></flowRegion><flowPara
+     id="flowPara1344" /></flowRoot><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Umpush;-inkscape-font-specification:Umpush;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="168.97559"
+   y="96.319351"
+   id="text990"><tspan
+     sodipodi:role="line"
+     id="tspan988"
+     x="168.97559"
+     y="140.70998" /></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="25.067337"
+   y="-23.17346"
+   id="text842"><tspan
+     sodipodi:role="line"
+     id="tspan840"
+     x="25.067337"
+     y="19.862329" /></text>
+<g
+   id="g915"
+   transform="translate(-4)"><text
      inkscape:export-ydpi="327"
      inkscape:export-xdpi="327"
-     transform="scale(0.70320887,1.4220526)"
+     transform="scale(0.77902419,1.2836572)"
      id="text860-3-2"
-     y="25.890404"
-     x="296.62949"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.16885757px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75351799"
+     y="23.370726"
+     x="312.1366"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.64887238px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.68018496"
      xml:space="preserve"><tspan
-       y="25.890404"
-       x="296.62949"
+       y="23.370726"
+       x="312.1366"
        id="tspan858-6-6"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.16885757px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.75351799"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.64887238px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.68018496"><tspan
          id="tspan862-9-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.16885757px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#00aed9;fill-opacity:1;stroke-width:0.75351799">PDF</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.64887238px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#00aed9;fill-opacity:1;stroke-width:0.68018496">PDF</tspan></tspan></text>
 <text
      inkscape:export-ydpi="327"
      inkscape:export-xdpi="327"
-     transform="scale(0.70320887,1.4220526)"
-     id="text860-3"
-     y="21.535046"
-     x="56.061958"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.47145462px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61398876"
-     xml:space="preserve"><tspan
-       y="21.535046"
-       x="56.061958"
-       id="tspan858-6"
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.61398876">WK</tspan></text>
-<text
-     inkscape:export-ydpi="327"
-     inkscape:export-xdpi="327"
-     transform="scale(0.70320887,1.4220526)"
+     transform="scale(0.77902419,1.2836572)"
      id="text860-3-1"
-     y="25.890404"
-     x="99.202324"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.16885757px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75351799"
+     y="23.370726"
+     x="122.10079"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.64887238px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.68018496"
      xml:space="preserve"><tspan
-       y="25.890404"
-       x="99.202324"
+       y="23.370726"
+       x="122.10079"
        id="tspan858-6-2"
        sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.16885757px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.75351799"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.64887238px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.68018496"><tspan
          id="tspan1205-6-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.16885757px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#00aed9;fill-opacity:1;stroke-width:0.75351799">&lt;HTML&gt;</tspan></tspan></text>
-<text
-     inkscape:export-ydpi="327"
-     inkscape:export-xdpi="327"
-     transform="scale(0.70320887,1.4220526)"
-     id="text860-3-2-7"
-     y="21.535046"
-     x="261.1069"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.49944115px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5937385"
-     xml:space="preserve"><tspan
-       y="21.535046"
-       x="261.1069"
-       id="tspan858-6-6-5"
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';stroke-width:0.5937385">TO</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.64887238px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#00aed9;fill-opacity:1;stroke-width:0.68018496">&lt;HTML&gt;</tspan></tspan></text>
 <rect
-     y="16.408756"
-     x="28.5"
+     y="12.999999"
+     x="44"
      height="4"
      width="10"
      id="rect986"
      style="opacity:1;fill:#00aed9;fill-opacity:1;stroke:none;stroke-width:8.62728024;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><text
-     id="text990"
-     y="100.18747"
-     x="147.61606"
+     id="text854"
+     y="23.50703"
+     x="206.44922"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Umpush;-inkscape-font-specification:Umpush;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      xml:space="preserve"><tspan
-       y="144.57809"
-       x="147.61606"
-       id="tspan988"
-       sodipodi:role="line"></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, '"
+       y="23.50703"
+       x="206.44922"
+       id="tspan852"
+       sodipodi:role="line">TO</tspan></text>
+<text
+     id="text858"
+     y="23.589844"
+     x="2.8984375"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Umpush;-inkscape-font-specification:Umpush;letter-spacing:0px;word-spacing:0px;fill:#00aed9;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#00aed9;fill-opacity:1"
+       y="23.589844"
+       x="2.8984375"
+       id="tspan856"
+       sodipodi:role="line">GO</tspan></text>
+<text
+     id="text862"
+     y="23.799999"
+     x="55.011719"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Umpush;-inkscape-font-specification:Umpush;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, '"
+       y="23.799999"
+       x="55.011719"
+       id="tspan860"
+       sodipodi:role="line">WK</tspan></text>
 </g></svg>
