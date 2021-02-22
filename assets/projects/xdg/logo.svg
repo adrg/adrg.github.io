@@ -28,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="116.16241"
-     inkscape:cy="64.819888"
+     inkscape:cy="64.819889"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -37,9 +37,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1276"
+     inkscape:window-width="1916"
      inkscape:window-height="2123"
-     inkscape:window-x="2560"
+     inkscape:window-x="1920"
      inkscape:window-y="33"
      inkscape:window-maximized="1" />
   <metadata
@@ -61,7 +61,7 @@
      transform="translate(-42.992637,-33.094062)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;fill:#00beee;fill-opacity:1;stroke:#007d9c;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;fill:#00b2df;fill-opacity:1;stroke:#007d9c;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="41.228981"
        y="66.36496"
        id="text835"
@@ -72,6 +72,6 @@
          id="tspan833"
          x="41.228981"
          y="66.36496"
-         style="font-size:50.8px;fill:#00beee;fill-opacity:1;stroke:#007d9c;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">xdg</tspan></text>
+         style="font-size:50.8px;fill:#00b2df;fill-opacity:1;stroke:#007d9c;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">xdg</tspan></text>
   </g>
 </svg>
