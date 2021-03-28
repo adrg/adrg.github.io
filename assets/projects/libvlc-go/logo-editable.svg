@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="389.59698"
-   height="50.000027"
+   width="311.67743"
+   height="40"
    id="svg3916"
    version="1.1"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
@@ -18,17 +18,17 @@
      id="defs3918">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : -193.81888 : 1"
+       inkscape:vp_x="0 : -203.81891 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : -193.81888 : 1"
-       inkscape:persp3d-origin="372.04724 : -369.21257 : 1"
+       inkscape:vp_z="744.09448 : -203.81891 : 1"
+       inkscape:persp3d-origin="372.04724 : -379.2126 : 1"
        id="perspective3924" />
     <inkscape:perspective
        id="perspective3852"
-       inkscape:persp3d-origin="0.5 : -719.66662 : 1"
-       inkscape:vp_z="1 : -719.49996 : 1"
+       inkscape:persp3d-origin="0.5 : -729.66665 : 1"
+       inkscape:vp_z="1 : -729.49999 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : -719.49996 : 1"
+       inkscape:vp_x="0 : -729.49999 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        inkscape:collect="always"
@@ -337,7 +337,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.5"
      inkscape:cx="208.04778"
-     inkscape:cy="-80.374962"
+     inkscape:cy="-80.374969"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -368,9 +368,10 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(269.95141,-631.99995)">
+     transform="translate(269.95141,-631.99996)">
     <g
-       id="g1175">
+       id="g1175"
+       transform="matrix(0.7999996,0,0,0.7999996,-53.99039,126.40025)">
       <text
          xml:space="preserve"
          style="font-size:15.3424px;line-height:1.25;font-family:Courier-Bold;-inkscape-font-specification:Courier-Bold;letter-spacing:0px;word-spacing:0px;stroke-width:0.159818"
